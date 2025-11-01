@@ -1,4 +1,4 @@
-package projects.builderpattern;
+package builderpattern;
 
 public class Mobile {
     public final String battery;
